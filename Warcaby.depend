@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1484519200 source:d:\c++\projekty\warcaby — kopia\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<wincon.h>
+	"fwarcaby.h"
+
+1484529390 source:d:\c++\projekty\warcaby — kopia\fwarcaby.c
+	"fwarcaby.h"
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<wincon.h>
+
+1484647918 d:\c++\projekty\warcaby — kopia\fwarcaby.h
+
+1484648690 source:d:\c++\projekty\warcabyprojekt_1_semestr\fwarcaby.c
+	"fwarcaby.h"
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<wincon.h>
+
+1484647918 d:\c++\projekty\warcabyprojekt_1_semestr\fwarcaby.h
+
+1484519200 source:d:\c++\projekty\warcabyprojekt_1_semestr\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<wincon.h>
+	"fwarcaby.h"
+
+1484847374 source:c:\users\mateusz\desktop\warcabyprojekt_1_semestr\fwarcaby.c
+	"fwarcaby.h"
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<wincon.h>
+
+1484647918 c:\users\mateusz\desktop\warcabyprojekt_1_semestr\fwarcaby.h
+
+1484519200 source:c:\users\mateusz\desktop\warcabyprojekt_1_semestr\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<wincon.h>
+	"fwarcaby.h"
+
